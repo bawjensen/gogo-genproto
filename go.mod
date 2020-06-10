@@ -1,4 +1,4 @@
-module istio.io/gogo-genproto
+module github.com/istio/gogo-genproto
 
 go 1.12
 
